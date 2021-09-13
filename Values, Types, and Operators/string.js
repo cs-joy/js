@@ -1,3 +1,3 @@
 //string 
 
-console.log('a' + 'e' + 'i' + 'o' + 'u');
+console.log('i' + 'lo' + 'v' + 'e' + 'u');
